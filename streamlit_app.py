@@ -6,7 +6,7 @@ import pandas as pd
 
 st.set_page_config(
    page_title="streamlit",
-   page_icon="🎉",
+   page_icon="👅",
    layout="centered",
    initial_sidebar_state="expanded",
    menu_items={
