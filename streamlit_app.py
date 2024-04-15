@@ -5,7 +5,7 @@ import pandas as pd
 
 
 st.set_page_config(
-   page_title="IT空間 示範 streamlit",
+   page_title="streamlit",
    page_icon="🎉",
    layout="centered",
    initial_sidebar_state="expanded",
